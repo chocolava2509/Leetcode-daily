@@ -4,3 +4,4 @@
 3-counting bits
 4-Unique Paths
 5-Linked List Cycle
+6-Reverse Linked List-2
