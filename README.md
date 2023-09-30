@@ -7,3 +7,4 @@
 6-Reverse Linked List-2
 7-Pascal's trianle
 8-Combinational Sum IV
+9-132 pattern
