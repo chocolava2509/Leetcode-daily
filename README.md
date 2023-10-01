@@ -8,3 +8,4 @@
 7-Pascal's trianle
 8-Combinational Sum IV
 9-132 pattern
+10-Reverse word in string III
