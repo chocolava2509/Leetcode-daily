@@ -10,3 +10,4 @@
 9-132 pattern
 10-Reverse word in string III
 11- Remove Colored Pieces if Both Neighbors are the Same Color
+12-Number of good pairs
